@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sum_up">
+    <title>How to Sum-Up</title>
+    <shortdesc>Here you will find the instructions about the adding feature of the Calc
+        App.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_umx_232_21c">To successfully add numbers, you must know what is
+            addition.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the addition (+) button</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) sign</cmd>
+            </step>
+        </steps>
+        <result id="result_rpj_p32_21c">The addition result is displayed.</result>
+        <example id="example_sgp_s32_21c">
+            <p>You want to add 3 with 4. The equation will look like, 3+4=7. You will enter 3, click
+                on the plus (+) sign, then enter 4 and click on equal (=) sign.</p>
+            <p>The result 7 will appear on screen.</p>
+        </example>
+    </taskbody>
+</task>
