@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/DEEP/OneDrive/Desktop/Technical%20Writing/Profile%20Creation/end_user_for_calc_application.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">End-User For Calc Application</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">End-User For Calc Application</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Sum-up"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d78e14">Sum-up</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_sum_up"><resourceid appid="how_to_sum_up" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">How to Sum-Up</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find the instructions about the adding feature of the Calc         App.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Subtract"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d78e27">Subtract</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_subtraction_of_numbers"><resourceid appid="what_is_subtraction_of_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">What is Subtraction of numbers ?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will learn what is Subtraction.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_subtract_numbers"><resourceid appid="how_to_subtract_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to Subtract Numbers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Here you will find instructions about the subtraction feature of the Calc         App.</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Multiply"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d78e51">Multiply</navtitle></topicmeta></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Divide"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d78e53">Divide</navtitle></topicmeta></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d78e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Sum-up</ph></title><task class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="how_to_sum_up" oid="how_to_sum_up" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Sum-Up</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find the instructions about the adding feature of the Calc
+        App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_1_Connect_42_prereq_umx_232_21c" nd:nd-id="prereq_umx_232_21c">To successfully add numbers, you must know what is
+            addition.</prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the addition (+) button</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the equal (=) sign</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_1_Connect_42_result_rpj_p32_21c" nd:nd-id="result_rpj_p32_21c">The addition result is displayed.</result>
+        <example class="- topic/example " id="unique_1_Connect_42_example_sgp_s32_21c" nd:nd-id="example_sgp_s32_21c">
+            <p class="- topic/p ">You want to add 3 with 4. The equation will look like, 3+4=7. You will enter 3, click
+                on the plus (+) sign, then enter 4 and click on equal (=) sign.</p>
+            <p class="- topic/p ">The result 7 will appear on screen.</p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d78e27" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Subtract</ph></title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="what_is_subtraction_of_numbers" oid="what_is_subtraction_of_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Subtraction of numbers ?</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will learn what is Subtraction.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To successfully perform the task of subtracting numbers, you must know what is
+            subtraction. The term Subtraction represents a mathematical operation. It is a process,
+            an action that you do using numbers. Subtraction allows you to find the differences of 2
+            numbers.</p>
+        <p class="- topic/p ">You use the minus (-) button to express the subtraction operation in the app.</p>
+        <p class="- topic/p ">In the subtraction process, you take a number and reduce it to a samller number. That is,
+            we take away one number from another.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="how_to_subtract_numbers" oid="how_to_subtract_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Subtract Numbers</ph></title>
+    <shortdesc class="- topic/shortdesc ">Here you will find instructions about the subtraction feature of the Calc
+        App.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_ddl_13x_d1c" nd:nd-id="prereq_ddl_13x_d1c">To successfully subtract numbers, you must know what is
+            substarction.</prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the minus (-) button</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose the equal (=) button</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_av5_j3x_d1c" nd:nd-id="result_av5_j3x_d1c">The substraction result is displayed</result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_zf4_l3x_d1c" nd:nd-id="example_zf4_l3x_d1c">
+            <p class="- topic/p ">You want to subtract 2 from 3.. The equation will look like, 3-2=1. You will enter 3,
+                click on minus (-)  and then enter 2. Then click on equal (=).</p>
+            <p class="- topic/p ">The result 1 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d78e51" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Multiply</ph></title></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d78e53" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Divide</ph></title></topic></map>
